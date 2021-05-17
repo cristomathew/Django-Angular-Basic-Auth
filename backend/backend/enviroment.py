@@ -1,5 +1,5 @@
-username = 'postgres'
-password = 'katti403'
+username = ''
+password = ''
 
 def get_password():
     return password
